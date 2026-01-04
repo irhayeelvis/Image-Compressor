@@ -1,2 +1,2 @@
-# Image-Upscaler
-Simple image upscaler with AI metrics for compression and expansion
+# Image-Compressor
+Simple image compressor with AI metrics for compression and reduction
